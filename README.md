@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hey!
+
+- I'm a Finance, Accounting and Management student at UoN
+- I have been writing code since I was 11 years old
+- I have an interest in quant analysis of risk in portfolios - these are my main projects
+- I'm proficient in Python, and intermediate in the web dev languages
 
 <!--
 **szykopyc/szykopyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
