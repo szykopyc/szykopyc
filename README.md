@@ -20,7 +20,7 @@ I'm a **first-year Finance student** at the University of Nottingham, passionate
 - [LinkedIn](https://www.linkedin.com/in/szymonkopycinski) | [Email](mailto:szymon.kopycinski@outlook.com)
 - Exploring quant trading and research opportunities — let's chat about markets or code!
 
-**Fun Facts**:
+## **Fun Facts**:
 - I’ve live-traded FX and silver spot since age 15 using technical and macro analysis.
 - Avid skier, hiker, and gym-goer who loves cooking.
 
