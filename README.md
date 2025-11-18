@@ -13,7 +13,7 @@
 -  Fully autonomous flow-trading competition algorithm, exponential order-book staleness, 4 600-word technical write-up  → [szyk.dev/blog/1](https://szyk.dev/blog/1)
 
 ### The Student Analyst’s Guide to Portfolio Performance & Risk
--  Technical primer on Sharpe, Sortino, VaR/ES, Brinson-Fachler  → [szyk.dev/risk-guide](https://szyk.dev/risk-guide)
+-  Technical primer on Sharpe, Sortino, VaR/ES, Brinson-Fachler  → [szyk.dev/risk-guide](https://szyk.dev/risk-guide.pdf)
 
 ### Drapt – 20 000 LOC portfolio analytics platform  
 -  React + FastAPI + PostgreSQL + Redis · live Tiingo data (secured educational license, 150k daily calls)
