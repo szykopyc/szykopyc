@@ -1,24 +1,27 @@
-# Hey, I'm Szymon Kopycinski
+# Hey, I'm Szymon
+[me@szyk.dev](mailto:me@szyk.dev) · [linkedin.com/in/szymonkopycinski](linkedin.com/in/szymonkopycinski) · [szyk.dev](https://szyk.dev)
 
-I'm a second year finance student at the University of Nottingham.
+2ⁿᵈ-year Finance @ University of Nottingham, I'm entirely self-taught
 
-Exploring quant dev/systematic trading opportunities.
+### Quant Dev Intern @ Swiss Fintech** (25 000 active users)  
+-  Nov 2025 – present
+-  Building production portfolio analytics infrastructure
 
-I'm looking to do a Masters degree in financial engineering or data science.
+## Selected Work
+### Rotman × Trinity Liability Trading 2025
+-  31st/174 individual (top 18 %)  
+-  Fully autonomous flow-trading competition algorithm, exponential order-book staleness, 4 600-word technical write-up  → [szyk.dev/blog/1](https://szyk.dev/blog/1)
 
-## Projects and Competitions
-- **UToronto Rotman x Dublin SMF**: Developing a systematic trading strategy with a custom SDK, block order evaluation, dynamic execution logic, and telemetry for optimisation and parameter tuning.
-- **Drapt**: Full-stack portfolio analytics platform written in FastAPI and React.js, supporting multiple users across multiple desks, multi-portfolio, multi-currency support.
+### The Student Analyst’s Guide to Portfolio Performance & Risk
+-  Technical primer on Sharpe, Sortino, VaR/ES, Brinson-Fachler  → [szyk.dev/risk-guide](https://szyk.dev/risk-guide)
 
-Note: most active repository's are private, please contact for access.
+### Drapt – 20 000 LOC portfolio analytics platform  
+-  React + FastAPI + PostgreSQL + Redis · live Tiingo data (secured educational license, 150k daily calls)
 
-## **Tech Stack**:
-- **Languages:** Python (Pandas, NumPy, statsmodels, FastAPI), JS
-- **Tools**: Jupyter Notebook, Git, Bloomberg, Excel
-- **Frameworks**: React.js
+### HFT Market Simulator (Rust)
+-  Sub-10 ms tick-to-trade engine (private)
 
-## **Contact Me**:
-- [LinkedIn](https://www.linkedin.com/in/szymonkopycinski)
-- [Email](mailto:szymon.kopycinski@outlook.com)
+Most repositories are private. Happy to share on request.
 
-*Last updated: November 2025*
+### Stack
+Python · Rust (learning) · JavaScript/TypeScript · FastAPI · React · PostgreSQL · Linux · Docker · LaTeX
