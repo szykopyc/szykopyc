@@ -3,7 +3,7 @@
 
 2ⁿᵈ-year Finance @ University of Nottingham, I'm entirely self-taught
 
-### Quant Dev Intern @ Swiss Fintech** (25 000 active users)  
+### Quant Dev Intern @ a Swiss Fintech (25 000 active users)  
 -  Nov 2025 – present
 -  Building production portfolio analytics infrastructure
 
