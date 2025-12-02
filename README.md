@@ -1,11 +1,14 @@
 # Hey, I'm Szymon
 [me@szyk.dev](mailto:me@szyk.dev) · [linkedin.com/in/szymonkopycinski](linkedin.com/in/szymonkopycinski) · [szyk.dev](https://szyk.dev)
 
-2ⁿᵈ-year Finance @ University of Nottingham, I'm entirely self-taught
+2ⁿᵈ-year Finance @ University of Nottingham, I'm entirely self-taught.
 
-### Quant Dev Intern @ a Swiss Fintech (25 000 active users)  
+Interested in systematic trading and backend engineering.
+
+### Quant Dev Intern @ a Swiss Fintech
 -  Nov 2025 – present
--  Building production portfolio analytics infrastructure
+-   Building a production-grade microservice for portfolio performance & risk analytics, serving 25,000 active users
+-   Implemented UUID-based Redis portfolio caching, isolating state to the microservice
 
 ## Selected Work
 ### Rotman × Trinity Liability Trading 2025
