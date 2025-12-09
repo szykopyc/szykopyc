@@ -4,7 +4,9 @@
 2ⁿᵈ-year Finance @ University of Nottingham, I'm entirely self-taught.
 
 Currently interning as a Quantitative Developer on the analytics side.
+
 Interested in systematic trading and backend engineering.
+
 All repositories are private. Happy to share on request.
 
 ### Stack
