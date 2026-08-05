@@ -2,7 +2,7 @@
 
 [me@szyk.dev](mailto:me@szyk.dev) · [linkedin.com/in/szymonkopycinski](https://linkedin.com/in/szymonkopycinski) · [szyk.dev](https://szyk.dev)
 
-I'm a Market Data Engineering Intern at BlueWalker Capital and a Finance undergraduate at the University of Nottingham.
+I'm a Market Data Engineering at a prop shop, and a Finance undergraduate at the University of Nottingham.
 
 My interests lie in market data engineering, distributed systems, backend infrastructure and data-intensive applications. I enjoy building reliable systems for realtime data ingestion, storage and retrieval.
 
