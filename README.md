@@ -2,7 +2,7 @@
 
 [me@szyk.dev](mailto:me@szyk.dev) · [linkedin.com/in/szymonkopycinski](https://linkedin.com/in/szymonkopycinski) · [szyk.dev](https://szyk.dev)
 
-I'm a Market Data Engineering at a prop shop, and a Finance undergraduate at the University of Nottingham.
+I'm a Market Data Engineering at a hedge fund, and a Finance undergraduate at the University of Nottingham.
 
 My interests lie in market data engineering, distributed systems, backend infrastructure and data-intensive applications. I enjoy building reliable systems for realtime data ingestion, storage and retrieval.
 
@@ -14,7 +14,7 @@ Most repositories are private due to commercial or competition-related work. I'm
 Python · SQL · Rust (learning)
 
 **Backend**  
-FastAPI · PyO3
+FastAPI
 
 **Data Engineering**  
 ClickHouse · PostgreSQL · Polars · Pandas · Apache Parquet · S3-compatible Object Storage
