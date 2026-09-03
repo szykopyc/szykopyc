@@ -2,9 +2,7 @@
 
 [me@szyk.dev](mailto:me@szyk.dev) · [linkedin.com/in/szymonkopycinski](https://linkedin.com/in/szymonkopycinski) · [szyk.dev](https://szyk.dev)
 
-I'm a Market Data Engineering at a hedge fund, and a Finance undergraduate at the University of Nottingham.
-
-My interests lie in market data engineering, distributed systems, backend infrastructure and data-intensive applications. I enjoy building reliable systems for realtime data ingestion, storage and retrieval.
+I am a Finance undergraduate at the University of Nottingham, and previously I interned as a Market Data Engineer for 7 months at a systematic fund. My interests lie in market data engineering, distributed systems, backend infrastructure and data-intensive applications.
 
 Most repositories are private due to commercial or competition-related work. I'm happy to discuss projects or share details where appropriate.
 
